@@ -1,2 +1,2 @@
 # school
-webprojct
+ secondary
