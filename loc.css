@@ -28,6 +28,12 @@
         outline: none;
     }
     
+    a:link {
+        color: orangered;
+        text-decoration: none;
+        text-decoration-color: black;
+    }
+    
     .box {
         padding: 12px;
         margin: 10px;
@@ -63,4 +69,11 @@
      ::placeholder {
         color: white;
         opacity: 0.5;
+    }
+    
+    div.home {
+        height: 100px;
+        text-align: right;
+        background: transparent;
+        font-size: 30px;
     }
